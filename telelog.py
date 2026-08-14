@@ -132,7 +132,7 @@ INDEX_HTML = r"""
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FUNSTAT OSINT CONSOLE // BEKFURR</title>
+<title>FUNSTAT OSINT CONSOLE // BEKFURR INC 2026</title>
 <style>
   :root {
     --bg: #0a0e12; --panel: #11181f; --border: #1f2b36;
